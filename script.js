@@ -13,6 +13,9 @@ for (let index = 0; index < num.length; index++) {
 // clearing the display
 clear.onclick = function (params) {
     display.innerText = '';
+    operand1 = 0;
+    operator = '+';
+    operator2 = 0;
 }
 
 // performing the operations
