@@ -1,4 +1,3 @@
-
 var clearBut = document.getElementById('clear');
 var answer = document.getElementById('disp');
 var eqnString = '';
